@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there, I'm Ojas! 👋
 
-<!--
-**ojassingh/ojassingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```python
+class Ojas:
+    def __init__(self):
+        self.username = 'ojassingh'
+        self.name = 'Ojas Singh'
+        self.web = 'https://ojas.vercel.app/'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'VueJS', 'Nextjs', 'TailWind'],
+            'backend': ['Python', 'Next.js', 'Nest.js', 'Express.js', 'NodeJS'],
+            'database': ['PostgreSQL', 'MySQL', 'Redis', 'Mongo DB', 'DynamoDB'],
+            'devops': ['Docker', 'Netlify', 'Vercel', 'GitHub Actions', 'AWS', 'Heroku'],
+            'tools': ['GIT', 'GitHub', 'Pandas', 'Jupyter notebook, TensorFlow, NumPy'],
+            'misc': ['Firebase', 'Supabase', 'Stripe', 'LaTeX', 'R', 'CockroachDB', 'DynamoDB']
+        }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = OjasSingh()
+```
