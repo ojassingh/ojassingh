@@ -6,6 +6,7 @@ class Ojas:
     def __init__(self):
         self.username = 'ojassingh'
         self.name = 'Ojas Singh'
+        self.linkedIn = 'https://www.linkedin.com/in/ojas-singh/'
         self.web = 'https://ojas.vercel.app/'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'VueJS', 'Nextjs', 'TailWind'],
