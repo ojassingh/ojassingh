@@ -11,10 +11,10 @@ class Ojas:
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'VueJS', 'Nextjs', 'TailWind'],
             'backend': ['Python', 'Next.js', 'Nest.js', 'Express.js', 'NodeJS'],
-            'database': ['PostgreSQL', 'MySQL', 'Redis', 'Mongo DB', 'DynamoDB'],
+            'database': ['PostgreSQL', 'MySQL', 'Redis', 'MongoDB', 'DynamoDB'],
             'devops': ['Docker', 'Netlify', 'Vercel', 'GitHub Actions', 'AWS', 'Heroku'],
             'tools': ['GIT', 'GitHub', 'Pandas', 'Jupyter notebook, TensorFlow, NumPy'],
-            'misc': ['Firebase', 'Supabase', 'Stripe', 'LaTeX', 'R', 'CockroachDB', 'DynamoDB']
+            'misc': ['Firebase', 'Supabase', 'Stripe', 'LaTeX', 'R', 'CockroachDB']
         }
 
     def __str__(self):
