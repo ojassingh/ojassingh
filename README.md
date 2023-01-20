@@ -22,7 +22,7 @@ class Ojas:
 
 
 if __name__ == '__main__':
-    me = OjasSingh()
+    me = Ojas()
 ```
 
 ##### I'm a student at the University of Toronto. I love full-stack development, and specialise in Node.js based applications.
