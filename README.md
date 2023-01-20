@@ -9,7 +9,7 @@ class Ojas:
         self.linkedIn = 'https://www.linkedin.com/in/ojas-singh/'
         self.web = 'https://ojas.vercel.app/'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'Typescript', 'JavaScript', 'ReactJS', 'VueJS', 'Nextjs', 'TailWind'],
+            'frontend': ['HTML', 'CSS', 'Typescript', 'ReactJS', 'VueJS', 'Nextjs', 'TailWind'],
             'backend': ['Python', 'Next.js', 'Nest.js', 'Express.js', 'NodeJS'],
             'database': ['PostgreSQL', 'MySQL', 'Redis', 'MongoDB', 'DynamoDB'],
             'devops': ['Docker', 'Netlify', 'Vercel', 'GitHub Actions', 'AWS', 'Heroku'],
