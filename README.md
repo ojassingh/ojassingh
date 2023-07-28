@@ -1,4 +1,4 @@
-## Hi there, I'm Ojas! 👋
+# Hi there, I'm Ojas! 👋
 
 
 ```python
@@ -25,7 +25,9 @@ if __name__ == '__main__':
     me = Ojas()
 ```
 
-##### I'm a student at the University of Toronto. I love full-stack development, and specialise in Node.js based applications.
+#### I'm a student at the University of Toronto. I love full-stack development, and specialise in Node.js based applications.
+
+### My GitHub stats:
 
 ![ojassingh github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=ojassingh)
 
