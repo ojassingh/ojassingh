@@ -26,3 +26,7 @@ if __name__ == '__main__':
 ```
 
 ##### I'm a student at the University of Toronto. I love full-stack development, and specialise in Node.js based applications.
+
+
+![Ojas' GitHub stats](https://github-readme-stats.vercel.app/api?username=ojassingh&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
+
