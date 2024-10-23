@@ -7,7 +7,7 @@ class Ojas:
         self.username = 'ojassingh'
         self.name = 'Ojas Singh'
         self.linkedIn = 'https://www.linkedin.com/in/ojas-singh/'
-        self.web = 'https://ojas.vercel.app/'
+        self.web = '[https://ojas-singh.com/](https://ojas-singh.com/)'
         self.code = {
             'frontend': ['HTML', 'CSS', 'Typescript', 'ReactJS', 'VueJS', 'Nextjs', 'TailWind'],
             'backend': ['Python', 'Next.js', 'Nest.js', 'Express.js', 'NodeJS'],
